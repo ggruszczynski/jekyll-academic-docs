@@ -1,0 +1,9 @@
+site_name: Jekyll Academic
+pages:
+- About: about.md
+- Quickstart: index.md
+- Documentation: documentation.md
+- Advanced Features: advanced.md
+- Additional Resources: resources.md
+
+theme: journal
