@@ -214,6 +214,56 @@
             "location": "/resources/#github-pages", 
             "text": "GitHub Pages  provides a free hosting platform for personal or project websites. It is tightly integrated with Jekyll to provide a seamless hosting solution for Jekyll based websites.", 
             "title": "GitHub Pages"
+        }, 
+        {
+            "location": "/workshop/", 
+            "text": "Jekyll Academic Workshop\n\n\nThis workshop is designed to be flexible, allowing for it to be taught in a variety of lengths based on how much time is available. Each of the workshop sections is designed to take roughly 30 minutes to complete. They increase in technical difficulty as they progress. The first section is taught entirely in a web browser, so no additional installation of software is required. Section two of the workshop requires the installation of Github Desktop as well as a text editor. Section three of the workshop is more of an in-depth discussion of additional ways to take advantage of advanced features in Jekyll, Github and with the Jekyll Academic theme.  \n\n\nPutting on a Workshop\n\n\nWorkshop Materials\n\n\nWe have published a set of workshop materials that you are free to use, should you choose to teach this workshop. They are available via Google Drive. The materials include a Google Presentation and four activity documents. These documents are also embedded below.\n\n\nTiming\n\n\n\n\nIntro and Overview: 10 Minutes\n\n\nMarkdown Activity (web based): 5 Minutes\n\n\nGitHub First Steps: 10 Minutes\n\n\nEditing Your New Website in a Browser: 10 Minutes\n\n\nBreak: 10 Minutes\n\n\nGitHub Desktop First Steps: 10 Minutes\n\n\nEditing Your New Website: 20 Minutes\n\n\nAdvanced Features: 10 Minutes\n\n\nQuestions: 5 Minutes\n\n\n\n\n\n\nWorkshop Handouts\n\n\nWorkshop Section 1 - Part 1\n\n\n\n\nWorkshop Section 1 - Part 2\n\n\n\n\n\n\nWorkshop Section 2 - Part 1\n\n\n\n\nWorkshop Section 2 - Part 2", 
+            "title": "Workshop"
+        }, 
+        {
+            "location": "/workshop/#jekyll-academic-workshop", 
+            "text": "This workshop is designed to be flexible, allowing for it to be taught in a variety of lengths based on how much time is available. Each of the workshop sections is designed to take roughly 30 minutes to complete. They increase in technical difficulty as they progress. The first section is taught entirely in a web browser, so no additional installation of software is required. Section two of the workshop requires the installation of Github Desktop as well as a text editor. Section three of the workshop is more of an in-depth discussion of additional ways to take advantage of advanced features in Jekyll, Github and with the Jekyll Academic theme.", 
+            "title": "Jekyll Academic Workshop"
+        }, 
+        {
+            "location": "/workshop/#putting-on-a-workshop", 
+            "text": "", 
+            "title": "Putting on a Workshop"
+        }, 
+        {
+            "location": "/workshop/#workshop-materials", 
+            "text": "We have published a set of workshop materials that you are free to use, should you choose to teach this workshop. They are available via Google Drive. The materials include a Google Presentation and four activity documents. These documents are also embedded below.", 
+            "title": "Workshop Materials"
+        }, 
+        {
+            "location": "/workshop/#timing", 
+            "text": "Intro and Overview: 10 Minutes  Markdown Activity (web based): 5 Minutes  GitHub First Steps: 10 Minutes  Editing Your New Website in a Browser: 10 Minutes  Break: 10 Minutes  GitHub Desktop First Steps: 10 Minutes  Editing Your New Website: 20 Minutes  Advanced Features: 10 Minutes  Questions: 5 Minutes", 
+            "title": "Timing"
+        }, 
+        {
+            "location": "/workshop/#workshop-handouts", 
+            "text": "", 
+            "title": "Workshop Handouts"
+        }, 
+        {
+            "location": "/workshop/#workshop-section-1-part-1", 
+            "text": "", 
+            "title": "Workshop Section 1 - Part 1"
+        }, 
+        {
+            "location": "/workshop/#workshop-section-1-part-2", 
+            "text": "", 
+            "title": "Workshop Section 1 - Part 2"
+        }, 
+        {
+            "location": "/workshop/#workshop-section-2-part-1", 
+            "text": "", 
+            "title": "Workshop Section 2 - Part 1"
+        }, 
+        {
+            "location": "/workshop/#workshop-section-2-part-2", 
+            "text": "", 
+            "title": "Workshop Section 2 - Part 2"
         }
     ]
 }
