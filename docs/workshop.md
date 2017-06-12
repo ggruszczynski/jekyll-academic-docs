@@ -23,15 +23,15 @@ We have published a set of workshop materials that you are free to use, should y
 
 
 ### Workshop Section 1 - Part 1
-<iframe src="https://docs.google.com/document/d/1rGx5zI2OpinQxH0rHUM_E-4U2cydUlohG7MRkU3pCwc/pub?embedded=true" width ="850px" height="900px"></iframe>
+<iframe src="https://docs.google.com/document/d/1SxjEw2lb5zomouHcfn-C0dnJtU6UhNgZ9EZgewpIFUo/pub?embedded=true" width ="850px" height="900px"></iframe>
 
 ### Workshop Section 1 - Part 2
-<iframe src="https://docs.google.com/document/d/1GQDcDqAY_8aHTqcIw3I9i0OtYK8J0ZJ313LZtBZSz3o/pub?embedded=true" width ="850px" height="900px"></iframe>
+<iframe src="https://docs.google.com/document/d/1xsxO1kUJDvRuwIg8iuTbo06YGoYyoPoCEFEML4hkHU4/pub?embedded=true" width ="850px" height="900px"></iframe>
 
 *****
 
 ### Workshop Section 2 - Part 1
-<iframe src="https://docs.google.com/document/d/1DYhEKmEKc_uH4nWfXubmUkYY0ml_ZA_ZBQEuB3_nDaQ/pub?embedded=true" width ="850px" height="900px"></iframe>
+<iframe src="https://docs.google.com/document/d/1Xz2fgwcsCu_13LHKf57cUQDyseDlr13xoKQG1syyv6I/pub?embedded=true" width ="850px" height="900px"></iframe>
 
 ### Workshop Section 2 - Part 2
-<iframe src="https://docs.google.com/document/d/1wcKlUiPQ9j7RIJatmpVxmcxTHCFEdZCblzqVVVM3gvg/pub?embedded=true" width ="850px" height="900px"></iframe>
+<iframe src="https://docs.google.com/document/d/1fYLZvodPh1SENQ4IF21JxdWMyfUwPcgDOPgSCJ3PqnQ/pub?embedded=true" width ="850px" height="900px"></iframe>
