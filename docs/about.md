@@ -13,30 +13,30 @@ A static website generator is a tool that takes flat files and processes them in
 ## Is This the Right Type of Site for Me?
 While there are many advantages of using a static website generator to create your professional academic website, it may not be the right tool for everyone. This type of website is best suited for websites consisting mainly of static text content. If you need a site that relies heavily on video and large image galleries this may not be the best option for you. If you are looking for a site to host a CV and showcase some presentations as well as some text based pages (blog or otherwise) it will likely suit your needs.
 
--		
- -## Testing Latex		
- -		
- -Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 		
- -\\[ \frac{1}{n^{2}} \\]		
- -  		
- - another \[x^{(n+1)} = x^{(n)} + p\]		
- - 		
- - or		
- - 		
- - 		
- -$$		
- -\begin{align*}		
- -  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)		
- -  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\		
- -  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}		
- -      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\		
- -      \vdots & \ddots & \vdots \\		
- -      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)		
- -    \end{array} \right)		
- -  \left( \begin{array}{c}		
- -      y_1 \\		
- -      \vdots \\		
- -      y_n		
- -    \end{array} \right)		
- -\end{align*}		
- -$$
+
+## Testing Latex
+
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
+  
+ another \[x^{(n+1)} = x^{(n)} + p\]
+ 
+ or
+ 
+ 
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
